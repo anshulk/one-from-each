@@ -1,0 +1,25 @@
+{
+  "name": "one-from-each",
+  "version": "1.0.1",
+	"description": "Get all possibilities taking one value for each key ( from an array of values for that key )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulk/one-from-each.git"
+  },
+  "keywords": [
+    "combinations"
+  ],
+  "author": "Anshul Kushwaha <anshulkushwaha1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshulk/one-from-each/issues"
+  },
+  "homepage": "https://github.com/anshulk/one-from-each#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
